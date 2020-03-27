@@ -1,0 +1,26 @@
+p{font-size: 25px;
+font-family: Serif ;
+color: magenta;
+}
+ h1{font-family: serif;
+color: lime; 
+size: 27px;}
+body{
+background: maroon;
+}
+img{border: 3;
+border-color: white;
+border-radius: 50%;
+width: 30%}
+.wallafif{
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTqxtBoJUNIQbjvKatmgx-Q77GHiErIqMl-ctcjKMd8hSR4G7M);
+height: auto;
+width: 95%;
+border: 3;
+}
+
+
+.red{
+background: red;
+}
+
